@@ -20,6 +20,6 @@ while(c=='y')
     cout<<"\nIt is not a pythagorean triplet";
   cout<<"Do you wish to continue? y/n";
   cin>>c;
- }
- getch();
- }
+}
+getch();
+}
